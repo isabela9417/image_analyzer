@@ -1,4 +1,4 @@
-google-generativeai
-PIL
 streamlit
-generativeai
+python-dotenv
+Pillow
+google-generativeai
